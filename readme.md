@@ -134,5 +134,7 @@ Supplier ERP ─┬─► Sonar API ─┬─► ESG Data ─┬─► Sanctions
 ## 📫 Contact
 
 Want to contribute or collaborate?
+
 📧 Reach out: *\[[adi1423tya@gmail.com](mailto:adi1423tya@gmail.com)]*
+
 🌐 Global Colloboration with: @adi0900 @iqbalaws @MOHAMMED-IQRAMUL @nilam576
