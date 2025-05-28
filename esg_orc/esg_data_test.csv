@@ -1,0 +1,47 @@
+data_example_esg_new;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+id;CURRENT_RRI;TREND_RRI;PEAK_RRI;COUNTRY_SECTOR_AVERAGE;PRINCIPLE_1_HUMAN_RIGHTS;PRINCIPLE_2_HUMAN_RIGHTS;PRINCIPLE_3_LABOUR;PRINCIPLE_4_LABOUR;PRINCIPLE_5_LABOUR;PRINCIPLE_6_LABOUR;PRINCIPLE_7_ENVIRONMENT;PRINCIPLE_8_ENVIRONMENT;PRINCIPLE_9_ENVIRONMENT;PRINCIPLE_10_ANTI_CORRUPTION
+Meta Platforms Inc (Facebook);57;1;59;34;0;0;0;0;0;0;0;0;0;0
+Meta Platforms Inc (Facebook);57;0;59;34;0;0;0;0;0;0;0;0;0;0
+Tesla Inc;51;-2;58;34;4;4;0;4;3;0;0;0;0;0
+Tesla Inc;55;3;58;34;4;4;0;4;3;0;0;0;0;0
+Tesla Inc;58;3;58;34;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;58;0;58;31;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;59;1;59;32;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;59;0;59;32;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;59;0;59;31;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;60;1;60;31;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;59;-1;60;31;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;55;-4;60;31;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;58;3;60;32;4;4;0;3;3;0;0;0;0;0
+Tesla Inc;59;1;60;33;0;0;0;0;0;0;0;0;0;0
+Glencore PLC (formerly Glencore Xstrata PLC);54;1;55;37;2;1;0;0;0;0;0;0;0;0
+Glencore PLC (formerly Glencore Xstrata PLC);53;-1;55;37;1;1;0;0;0;0;0;0;0;0
+Glencore PLC (formerly Glencore Xstrata PLC);54;0;55;37;1;1;0;0;0;0;0;0;0;0
+Glencore PLC (formerly Glencore Xstrata PLC);54;0;55;36;1;1;0;0;0;0;0;0;0;0
+Glencore PLC (formerly Glencore Xstrata PLC);54;0;55;36;1;1;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);49;-5;55;35;1;1;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);51;2;55;35;2;2;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);50;-1;54;35;2;2;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);48;-2;54;35;2;2;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);49;1;54;35;2;2;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);53;4;54;35;2;2;0;0;0;0;1;1;1;0
+Glencore PLC (formerly Glencore Xstrata PLC);53;0;54;35;0;0;0;0;0;0;1;1;1;0
+Uber Technologies Inc (Uber);55;0;57;30;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);55;0;56;30;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);56;1;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);55;-1;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);54;-1;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);53;-1;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);55;2;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);55;1;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);54;-1;56;31;2;1;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);51;-2;56;31;2;2;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);55;4;56;31;2;1;0;0;0;0;0;0;0;0
+Uber Technologies Inc (Uber);54;-1;56;32;1;1;0;0;0;0;0;0;0;0
+American Airlines Group Inc;20;-1;56;21;0;0;0;0;0;0;0;0;0;0
+American Airlines Group Inc;21;1;56;21;0;0;0;0;0;0;0;0;0;0
+American Airlines Group Inc;20;-1;56;21;0;0;0;0;0;0;0;0;0;0
+American Airlines Group Inc;21;1;56;21;0;0;0;0;0;0;0;0;0;0
+American Airlines Group Inc;21;0;54;21;0;0;0;0;0;0;0;0;0;0
+American Airlines Group Inc;24;3;54;21;0;0;0;0;0;0;0;0;0;0

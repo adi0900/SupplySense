@@ -1,0 +1,4 @@
+SONAR_API_KEY=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
+SONAR_API_URL=https://api.perplexity.ai/chat/completions
+OPENSANCTIONS_API_KEY=57c7297214bec6859eca71a997064679
+NEWSDATA_API_KEY=pub_62df36a8e8e94c239b3bfcb7c92a8cd4
